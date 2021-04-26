@@ -168,7 +168,7 @@ Non-debugging symbols:
 0x08049965  set_lock
 ```
 
-#### Ok, now that we have all the information we need to solve the challenge we write ourselves a little Python script to flag the challenge
+#### Ok, now that we have all the information we need to solve the challenge, we write ourselves a little Python script to flag the challenge
 
 ```python
 #!/bin/python3
