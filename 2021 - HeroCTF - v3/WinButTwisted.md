@@ -86,7 +86,7 @@ GNU_STACK      0x000000 0x00000000 0x00000000 0x00000 0x00000 RW   0x10
 
 #
 
-#### So now we read the C code on the file:
+#### So now we read the C code of the file:
 
 ```c
 #include <stdio.h>
