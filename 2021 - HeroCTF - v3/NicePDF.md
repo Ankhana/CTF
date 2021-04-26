@@ -13,7 +13,7 @@ Author : Thib
 
 ![pdf normal](images/nice_pdf_normal.png "pdf normal")
 
-#### We don't notice anything abnormal at the moment but it's a fairly simple stegano challenge. So we look for "invisible" characters by highlighting the text:
+#### We don't notice anything unusual at the moment but it's a fairly simple stegano challenge. So we look for "invisible" characters by highlighting the text:
 
 ![pdf highlighted](images/nice_pdf_highlighted.png "pdf highlighted")
 
