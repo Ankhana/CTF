@@ -54,7 +54,7 @@ Welcome to the kernel challenge #1 !
 ```
 
 #### We are asked to display the flag in /dev/safe
-#### We move to /dev and test with **cat**. We get this:
+#### We move to /dev and test with **cat**. We get that:
 
 ```console
 /dev $ cat safe
