@@ -19,15 +19,7 @@ Author : Thib
 
 ![website](images/phono_website.png "website")
 
-#### So we download the application and test on the image. We get a sound file, which gives a sequence of characters : 
-
-#
-
-<audio controls src="files/extracted_audio.wav">
-  <p>Votre navigateur ne prend pas en charge l'audio HTML. Voici un
-     un <a href="files/extracted_audio.wav">lien vers le fichier audio</a> pour le
-     télécharger.</p>
-</audio>
+#### So we download the application and test on the image. We get a [sound file](files/extracted_audio.wav), which gives a sequence of characters.
 
 #
 
